@@ -27,7 +27,7 @@ function global:deactivate ([switch]$NonDestructive) {
 
 deactivate -nondestructive
 
-$env:VIRTUAL_ENV="C:\Users\Teddy Bear\Documents\Programming world\Django\env"
+$env:VIRTUAL_ENV="C:\Users\Teddy Bear\Documents\GitHub\Classifying.github.io\env"
 
 if (! $env:VIRTUAL_ENV_DISABLE_PROMPT) {
     # Set the prompt to include the env name

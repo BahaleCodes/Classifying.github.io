@@ -1,4 +1,4 @@
-#!c:\users\teddy bear\documents\programming world\django\env\scripts\python.exe
+#!c:\users\teddy bear\documents\github\classifying.github.io\env\scripts\python.exe
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
